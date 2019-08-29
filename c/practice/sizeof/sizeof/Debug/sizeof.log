@@ -1,0 +1,5 @@
+﻿  sizeof.c
+c:\users\hlc24\desktop\coding\practice\sizeof.c(6): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\hlc24\desktop\coding\practice\sizeof.c(19): warning C4013: “strlen”未定义；假设外部返回 int
+c:\users\hlc24\desktop\coding\practice\sizeof.c(6): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+  sizeof.vcxproj -> C:\Users\hlc24\Desktop\coding\practice\sizeof\Debug\sizeof.exe
